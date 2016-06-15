@@ -1,3 +1,3 @@
 # RoboCup
 
-> Teste
+> Repositório teste para inicio de atividades com git.
