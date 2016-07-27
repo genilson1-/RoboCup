@@ -7,11 +7,11 @@ Gabriel
 
 ### Lista:
 	1. primeiro
-		a. aaa
+		a. 3a
 	2. segundo
-		b. bbb
+		b. 3b
 	3. terceiro
-		c. ccc
+		c. 3c
 
 
 * [LINK](https://github.com/genilson1-/RoboCup)
